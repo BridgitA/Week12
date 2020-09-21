@@ -52,6 +52,120 @@ const myelement = (
         </tr>
       </table>
     </ul>
+    <ul>
+      <table>
+        <tr>
+          <th>Year</th>
+          <th>Model</th>
+          <th>Price</th>
+          <th>Buy</th>
+        </tr>
+        <tr>
+          <td>2016</td>
+          <td>B</td>
+          <td>$15500</td>
+          <td><button>Buy Now</button></td>
+        </tr>
+      </table>
+    </ul>
+    <h2>Trucks</h2>
+    <ul>
+      <table>
+        <tr>
+          <th>Year</th>
+          <th>Model</th>
+          <th>Price</th>
+          <th>Buy</th>
+        </tr>
+        <tr>
+          <td>2014</td>
+          <td>D</td>
+          <td>$18000</td>
+          <td><button>Buy Now</button></td>
+        </tr>
+      </table>
+    </ul>
+    <ul>
+      <table>
+        <tr>
+          <th>Year</th>
+          <th>Model</th>
+          <th>Price</th>
+          <th>Buy</th>
+        </tr>
+        <tr>
+          <td>2013</td>
+          <td>E</td>
+          <td>$5200</td>
+          <td><button>Buy Now</button></td>
+        </tr>
+      </table>
+    </ul>
+    <h2>Convertibles</h2>
+    <ul>
+      <table>
+        <tr>
+          <th>Year</th>
+          <th>Model</th>
+          <th>Price</th>
+          <th>Buy</th>
+        </tr>
+        <tr>
+          <td>2009</td>
+          <td>F</td>
+          <td>$2000</td>
+          <td><button>Buy Now</button></td>
+        </tr>
+      </table>
+    </ul>
+    <ul>
+      <table>
+        <tr>
+          <th>Year</th>
+          <th>Model</th>
+          <th>Price</th>
+          <th>Buy</th>
+        </tr>
+        <tr>
+          <td>2010</td>
+          <td>G</td>
+          <td>$6000</td>
+          <td><button>Buy Now</button></td>
+        </tr>
+      </table>
+    </ul>
+    <ul>
+      <table>
+        <tr>
+          <th>Year</th>
+          <th>Model</th>
+          <th>Price</th>
+          <th>Buy</th>
+        </tr>
+        <tr>
+          <td>2012</td>
+          <td>H</td>
+          <td>$12500</td>
+          <td><button>Buy Now</button></td>
+        </tr>
+      </table>
+    </ul>
+    <ul>
+      <table>
+        <tr>
+          <th>Year</th>
+          <th>Model</th>
+          <th>Price</th>
+          <th>Buy</th>
+        </tr>
+        <tr>
+          <td>2017</td>
+          <td>M</td>
+          <td>$50000</td>
+          <td><button>Buy Now</button></td>
+        </tr>
+      </table>
+    </ul>
   </div>
 
 )
